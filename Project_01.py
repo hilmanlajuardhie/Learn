@@ -1,3 +1,10 @@
+'''
+Hello Git Hub 
+I am Hilman Lajuardhie
+an Engineer
+'''
+
+
 import numpy as np
 from numpy import random
 import matplotlib.pyplot as plt
