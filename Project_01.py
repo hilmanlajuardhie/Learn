@@ -3,7 +3,6 @@ from numpy import random
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
 x = random.randint(10, size=(10))
 x = x + 3
 print(x)
